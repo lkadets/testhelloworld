@@ -1,0 +1,14 @@
+
+ the pros and cons of manually choosing
+ when to create a commit, l
+ike you do in Git, vs
+ having versions automatically saved,
+ like Google docs does?
+the cons is the human error
+one can forget to commit
+the pros is the more logical
+version creator
+that actually reflect a logical step
+have a few files in the same repository
+makes a lot of sense for programming
+because if these files relate

@@ -1,0 +1,7 @@
+have a few files in the same repository
+makes a lot of sense for programming
+because if these files relate
+to the same programm
+changes to them could be made simultaneously
+so that you don't have to commit
+each of them separately

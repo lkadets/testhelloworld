@@ -1,0 +1,5 @@
+we have commands like
+git init to creat a tracking 
+hsitory for git directory
+and git status to check what
+is going on with repository

@@ -1,0 +1,15 @@
+using Fc in windows or 
+diff for Linux 
+simplifies comparison of two files.
+basically it does comparison automatically 
+comapring line by line 
+and showing lines that are different. 
+that substencially shortens
+th bug and typo search time. 
+the shorter are your lines the 
+more efficient is Diff tool
+because it only shows 
+the lines that have differences
+but does not higlight
+the difference itself
+
